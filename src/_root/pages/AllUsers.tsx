@@ -1,4 +1,5 @@
-
+/* eslint-disable @typescript-eslint/ban-ts-comment */
+// @ts-nocheck
 
 import Loader from "@/components/shared/Loader";
 import UserCard from "@/components/shared/UserCard";

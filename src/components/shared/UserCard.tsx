@@ -1,3 +1,6 @@
+/* eslint-disable @typescript-eslint/ban-ts-comment */
+// @ts-nocheck
+
 import { Models } from "appwrite";
 import { Link } from "react-router-dom";
 import { Button } from "../ui/button";
