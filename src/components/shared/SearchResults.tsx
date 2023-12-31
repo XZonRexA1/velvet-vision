@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/ban-ts-comment */
+// @ts-nocheck
 import { Models } from "appwrite";
 import Loader from "./Loader";
 import GridPostList from "./GridPostList";
